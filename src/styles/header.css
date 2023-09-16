@@ -1,0 +1,94 @@
+.container {
+    background-color: #333; /* Background color for the container */
+    color: rgb(0, 0, 0); /* Text color for links and text */
+    padding: 10px; /* Add padding for spacing */
+  
+    /* Make the container a flex container */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .main-div {
+    background-color: #beced0;
+    display: flex;
+    align-items: center;
+    height: 50px;
+
+  }
+  
+  .title-div {
+    display: flex;
+    align-items: center;
+  }
+  
+  .title {
+    white-space: nowrap;
+    font-size: 24px; /* Adjust the font size */
+    font-weight: bold;
+    margin-right: 550px; /* Add margin to separate the title from the navigation items */
+    margin-left: 20px;
+    color: #6e92b8;
+    
+  }
+  
+  .search-div {
+      display: flex;
+      align-items: center;
+      margin-right: 30px; /* Add margin to separate the search bar from the navigation items */
+    }
+    
+    .search-bar {
+        background-color: #beced0;
+        padding: 8px;
+        border: 2px solid #565b61; /* Add a border */
+        border-radius: 4px;
+        margin-right: 5px; /* Adjust spacing between search bar and button */
+        font-size: 14px;
+        transition: border-color 0.2s; /* Add a transition effect for border color change */
+      }
+      
+      .search-bar:focus {
+        border-color: #ca9a7a; /* Change border color when the input is focused */
+        outline: none; /* Remove the default focus outline */
+      }
+    .search-button {
+        /* margin-top: 5px; */
+        background-color: #647c97; /* Button background color */
+        color: rgb(0, 0, 0); /* Button text color */
+        border: none;
+        height: 34px;
+        border-radius: 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+    }
+    
+    .ul-main {
+        list-style: none;
+        font-size: 25px;
+        padding: 0;
+        margin: 0;
+        display: flex; /* Make the list items appear horizontally */
+  }
+  
+  .li1,
+  .li2,
+  .li3,
+  .li4 {
+    margin-right: 50px; /* Add spacing between list items */
+  }
+  
+  /* Style for the links */
+  a {
+    text-decoration: none; /* Remove underlines from links */
+    color: rgb(97, 95, 95); /* Text color for links */
+  }
+  
+  /* Hover effect for links */
+  a:hover {
+    color: #000000; /* Change color on hover */
+  }
+  
+  .search-button:hover {
+    background-color: #ca9a7a; /* Change background color on hover */
+  }

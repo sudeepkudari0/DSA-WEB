@@ -1,0 +1,37 @@
+.main-div-topics {
+  display: flex;
+  align-items: flex-start;
+  min-width: 200px;
+  height: 100vh;
+}
+
+.topic-container {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+  font-size: larger;
+  flex: 1;
+  margin-left: 0%;
+  margin-right: 20px;
+}
+
+.ul-topics {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  list-style-type: none;
+  padding: 0;
+}
+
+.ul-topics li {
+  margin-bottom: 10px;
+}
+
+.ul-topics li a {
+  color: #333;
+  text-decoration: none;
+}
+
+.ul-topics li a:hover {
+  text-decoration: underline;
+}

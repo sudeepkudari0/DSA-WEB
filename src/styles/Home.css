@@ -1,0 +1,19 @@
+.container-home{
+    background-color: rgb(222, 218, 218);
+    display: grid;
+    grid-template-columns: auto auto;
+    height: 50vh;
+    width: 100%;     
+}
+.container-ani{
+    width: 150px;
+}
+.p-container{
+    margin: 9px;
+   color: black;
+   font-size: 40px;
+}
+.img-container{
+    background-color: aqua;
+    /* max-width: inherit; */
+}
