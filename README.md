@@ -40,9 +40,8 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1XZRLST6e9rLF5tTSXZTtTepFU1Am6MhW/view?usp=sharing)
-
-![App Screenshot](https://drive.google.com/file/d/1_c3-Jz6yweJfYOnf-bj1-jgoegXksZDF/view?usp=sharing)
+![App Screenshot](https://raw.github.com/sudeepkudari0/Dsa-Web/main/screenshots/home.png)
+![App Screenshot](https://raw.github.com/sudeepkudari0/Dsa-Web/main/screenshots/showcase.png)
 
 ## Future Improvements
 
