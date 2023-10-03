@@ -46,4 +46,5 @@ Start the server
 ## Future Improvements
 
 -> Improving the UI, redesigning with Chakra UI  
--> addng option to display code after execution with comments and process. and etc
+-> addng option to display code after execution with comments and process.
+-> adding more data structures topics and including algorithms.
